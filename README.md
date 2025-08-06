@@ -63,3 +63,11 @@ Let's build a world where language is no longer a barrier to cinema.
 "Film is universal. Now your distribution can be too."
 
 Built by Chakravartin Creatives.
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
+
+- You may share and adapt the work **non-commercially**, with credit.
+- Derivatives must be shared under the same license.
+- See [LICENSE](./LICENSE) for full details.
+
+© 2025 Chakravartin Creatives. All rights reserved.
