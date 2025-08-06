@@ -2,8 +2,6 @@ film-translator
 
 AI-powered cinematic localization. Built by Chakravartin Creatives.
 
----
-
 Purpose
 To empower independent filmmakers with a seamless, AI-powered localization platform that makes global distribution frictionless, beautiful, and immersive — without bad dubs or distracting subtitles.
 
