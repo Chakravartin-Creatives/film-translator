@@ -2,6 +2,8 @@ film-translator
 
 AI-powered cinematic localization. Built by Chakravartin Creatives.
 
+---
+
 Purpose
 To empower independent filmmakers with a seamless, AI-powered localization platform that makes global distribution frictionless, beautiful, and immersive — without bad dubs or distracting subtitles.
 
@@ -14,11 +16,15 @@ What It Does
 - Add off-screen voice ambience and background chatter in the local language.
 - Adapt lighting, makeup tone, and color grading subtly to maintain emotional and cultural authenticity.
 
+---
+
 The Problem
 Filmmakers face major barriers when distributing to international markets:
 - Bad dubbing ruins immersion.
 - Subtitles alienate some audiences.
 - Budget and time constraints block high-quality multilingual post-production.
+
+---
 
 Our Solution
 A single platform that lets you:
@@ -26,6 +32,8 @@ A single platform that lets you:
 - Match local language and cultural tone on-screen.
 - Avoid traditional dubbing studios and expensive reshoots.
 - Retain your original creative vision — just optimized per region.
+
+---
 
 Proposed Features
 - Secure film upload + encryption
@@ -36,6 +44,8 @@ Proposed Features
 - Review + manual tweak interface for directors
 - Export for theatrical, VOD, and indie platforms
 
+---
+
 Tech Stack (Planned)
 - Video/Audio: FFmpeg, Whisper, OpenFace, DeepWarp
 - AI/ML: GPT-4V, ElevenLabs, custom actor-voice matching model
@@ -43,11 +53,15 @@ Tech Stack (Planned)
 - Backend: Python, FastAPI, Celery
 - Frontend: Next.js, Tailwind, WebRTC preview tools
 
+---
+
 Use Cases
 - Distribute indie films globally
 - Reach diasporas in their heritage language
 - Seamless language availability for on-demand platforms
 - Preserve immersion without expensive re-dubbing
+
+---
 
 Collaboration Invitation
 Looking for:
@@ -61,6 +75,8 @@ Let's build a world where language is no longer a barrier to cinema.
 "Film is universal. Now your distribution can be too."
 
 Built by Chakravartin Creatives.
+
+---
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
 
